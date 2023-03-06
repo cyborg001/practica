@@ -1,0 +1,2 @@
+# practica
+Para practicar django
